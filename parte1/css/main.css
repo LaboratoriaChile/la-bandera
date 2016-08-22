@@ -1,1 +1,14 @@
 /* Escribe tu css aqui */
+body{
+	margin: 0;
+}
+.yellow, .pink{
+	height: 100px;
+}
+.yellow{
+	background-color: #E8DD45;
+}
+
+.pink{
+	background-color: #D90630;
+}
